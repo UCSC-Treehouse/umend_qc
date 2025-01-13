@@ -3,4 +3,4 @@ Cython==0.27.3
 numpy==1.13.3
 pysam==0.13
 RSeQC==2.6.4
-virtualenv==15.1.0
+virtualenv==20.26.6
